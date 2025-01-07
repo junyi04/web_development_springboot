@@ -1,4 +1,4 @@
 package me.kangjunyi.springbootdeveloper;
 
-public class Member {
+public class TestSevice {
 }
