@@ -1,7 +1,7 @@
 package springbootdeveloper;
 
-import me.ahngeunsu.springbootdeveloper.Member;
-import me.ahngeunsu.springbootdeveloper.MemberRepository;
+import me.kangjunyi.springbootdeveloper.Member;
+import me.kangjunyi.springbootdeveloper.MemberRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
