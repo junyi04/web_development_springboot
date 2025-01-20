@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class ViewController {
+public class UserViewController {
     @GetMapping("/login")
     public String login() {
         return "login";
@@ -20,4 +20,6 @@ public class ViewController {
 
         resource/templates 에 login.html 만들기
      */
+    
+    // 로그아웃 관련
 }

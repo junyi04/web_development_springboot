@@ -30,7 +30,7 @@ public class SpringBootDeveloperApplication {
         로그아웃
         /logout 요청이 들어오면
         -> UserApiController 클래스에서 로그아웃 로직을 실행할 예정,
-        그 로그아웃 로직 : SecurityContextLogoutHander 에서 제공하는 logout() 메서드를 실행할 예정
+        그 로그아웃 로직 : SecurityContextLogoutHandler 에서 제공하는 logout() 메서드를 실행할 예정
 
         1. 스프링 시큐리티 (Spring Security)
             1) 인증 vs 인가

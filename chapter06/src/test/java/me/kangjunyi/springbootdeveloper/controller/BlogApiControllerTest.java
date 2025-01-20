@@ -50,7 +50,7 @@ class BlogApiControllerTest {
     /*
         처음 보는 ObjectMapper 클래스
         : 이 클래스로 만든 자바 객체를 JSON 데이터로 변환하는 것 -> 직렬화
-            역으로 JSON 데이터를 자바 객체로 변환하는 것을 -> 역직렬화
+            역으로 JSON 데이터를 자바 객체로 변환하는 것 -> 역직렬화
 
             직렬화(Serialization) - 자바 객체 -> JSON
             역직렬화(Deserialization) - JSON -> 자바 객체
